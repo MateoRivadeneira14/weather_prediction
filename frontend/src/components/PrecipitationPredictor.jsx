@@ -11,7 +11,7 @@ const PrecipitationPredictor = ({ onPredict }) => {
 
     const handlePredict = async () => {
         try {
-            const res = await axios.post("http://backend:8000/predict", {
+            const res = await axios.post("http://184.72.86.112:8000/predict", {
                 fecha_inicio: fechaInicio,
                 fecha_fin: fechaFin,
             });

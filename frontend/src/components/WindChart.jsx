@@ -7,7 +7,7 @@ const WindChart = ({ stationCode = "C04", year = "Año", month = "Mes" }) => {
 
     useEffect(() => {
         axios
-            .get(`http://backend:8000/wind-data/${stationCode}`)
+            .get(`http://184.72.86.112:8000/wind-data/${stationCode}`)
             .then((res) => {
                 setWindData(res.data.data || []);
                 console.log("💨 windData recibido:", res.data.data.length, res.data.data.slice(0, 5));

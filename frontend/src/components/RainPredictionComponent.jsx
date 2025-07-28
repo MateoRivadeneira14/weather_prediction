@@ -40,7 +40,7 @@ const RainPredictionComponent = () => {
   useEffect(() => {
     const fetchHistoricalData = async () => {
       try {
-        const res = await axios.get(`http://backend:8000/historical/${station}`);
+        const res = await axios.get(`http://184.72.86.112:8000/historical/${station}`);
         const data = res.data.data
           .filter(d => d.fecha && !isNaN(new Date(d.fecha).getTime()))
           .map(d => ({
@@ -63,7 +63,7 @@ const RainPredictionComponent = () => {
 
     const fetchLiveWeather = async () => {
       try {
-        const res = await axios.get(`http://backend:8000/weather?station=${station}`);
+        const res = await axios.get(`http://184.72.86.112:8000/weather?station=${station}`);
         setApiData(res.data);
       } catch (err) {
         console.error("Error al cargar clima en tiempo real:", err);
@@ -136,7 +136,7 @@ const RainPredictionComponent = () => {
     setCargandoRecomendacion(true);
 
     try {
-      const res = await fetch("http://backend:8000/recommend", {
+      const res = await fetch("http://184.72.86.112:8000/recommend", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
