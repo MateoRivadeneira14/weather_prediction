@@ -16,7 +16,7 @@ const MapStations = ({ onSelectStation }) => {
   const [stations, setStations] = useState([]);
 
   useEffect(() => {
-    axios.get("http://backend:8000/stations")
+    axios.get("http://localhost:8000/stations")
       .then((res) => setStations(res.data))
       .catch((err) => console.error(err));
   }, []);
