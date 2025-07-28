@@ -1,0 +1,30 @@
+{
+  "precision_modelo": 89.5,
+  "predicciones": [
+    {
+      "fecha": "2023-12",
+      "real": 103.2,
+      "prediccion": 100.1
+    },
+    {
+      "fecha": "2024-01",
+      "real": 95.0,
+      "prediccion": 97.3
+    },
+    {
+      "fecha": "2024-02",
+      "real": 90.5,
+      "prediccion": 91.8
+    },
+    {
+      "fecha": "2025-07",
+      "real": null,
+      "prediccion": 85.0
+    },
+    {
+      "fecha": "2025-08",
+      "real": null,
+      "prediccion": 92.5
+    }
+  ]
+}

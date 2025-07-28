@@ -1,0 +1,425 @@
+{
+  "precision_modelo": 69.21,
+  "predicciones": [
+    {
+      "fecha": "2019-01",
+      "precipitacion_real_mm": 162.44,
+      "precipitacion_predicha_mm": 0.0
+    },
+    {
+      "fecha": "2019-02",
+      "precipitacion_real_mm": 188.72,
+      "precipitacion_predicha_mm": 162.19
+    },
+    {
+      "fecha": "2019-03",
+      "precipitacion_real_mm": 252.03,
+      "precipitacion_predicha_mm": 188.61
+    },
+    {
+      "fecha": "2019-04",
+      "precipitacion_real_mm": 221.4,
+      "precipitacion_predicha_mm": 251.83
+    },
+    {
+      "fecha": "2019-05",
+      "precipitacion_real_mm": 150.97,
+      "precipitacion_predicha_mm": 221.47
+    },
+    {
+      "fecha": "2019-06",
+      "precipitacion_real_mm": 81.3,
+      "precipitacion_predicha_mm": 151.19
+    },
+    {
+      "fecha": "2019-07",
+      "precipitacion_real_mm": 54.25,
+      "precipitacion_predicha_mm": 81.54
+    },
+    {
+      "fecha": "2019-08",
+      "precipitacion_real_mm": 23.87,
+      "precipitacion_predicha_mm": 54.36
+    },
+    {
+      "fecha": "2019-09",
+      "precipitacion_real_mm": 87.3,
+      "precipitacion_predicha_mm": 23.97
+    },
+    {
+      "fecha": "2019-10",
+      "precipitacion_real_mm": 124.0,
+      "precipitacion_predicha_mm": 87.12
+    },
+    {
+      "fecha": "2019-11",
+      "precipitacion_real_mm": 146.1,
+      "precipitacion_predicha_mm": 123.89
+    },
+    {
+      "fecha": "2019-12",
+      "precipitacion_real_mm": 143.84,
+      "precipitacion_predicha_mm": 146.18
+    },
+    {
+      "fecha": "2020-01",
+      "precipitacion_real_mm": 160.27,
+      "precipitacion_predicha_mm": 225.0
+    },
+    {
+      "fecha": "2020-02",
+      "precipitacion_real_mm": 141.68,
+      "precipitacion_predicha_mm": 186.97
+    },
+    {
+      "fecha": "2020-03",
+      "precipitacion_real_mm": 153.14,
+      "precipitacion_predicha_mm": 224.84
+    },
+    {
+      "fecha": "2020-04",
+      "precipitacion_real_mm": 165.3,
+      "precipitacion_predicha_mm": 166.46
+    },
+    {
+      "fecha": "2020-05",
+      "precipitacion_real_mm": 90.21,
+      "precipitacion_predicha_mm": 100.73
+    },
+    {
+      "fecha": "2020-06",
+      "precipitacion_real_mm": 88.2,
+      "precipitacion_predicha_mm": 28.62
+    },
+    {
+      "fecha": "2020-07",
+      "precipitacion_real_mm": 69.13,
+      "precipitacion_predicha_mm": 18.69
+    },
+    {
+      "fecha": "2020-08",
+      "precipitacion_real_mm": 89.28,
+      "precipitacion_predicha_mm": -3.64
+    },
+    {
+      "fecha": "2020-09",
+      "precipitacion_real_mm": 80.7,
+      "precipitacion_predicha_mm": 76.49
+    },
+    {
+      "fecha": "2020-10",
+      "precipitacion_real_mm": 88.97,
+      "precipitacion_predicha_mm": 105.48
+    },
+    {
+      "fecha": "2020-11",
+      "precipitacion_real_mm": 95.1,
+      "precipitacion_predicha_mm": 122.54
+    },
+    {
+      "fecha": "2020-12",
+      "precipitacion_real_mm": 149.42,
+      "precipitacion_predicha_mm": 114.34
+    },
+    {
+      "fecha": "2021-01",
+      "precipitacion_real_mm": 126.48,
+      "precipitacion_predicha_mm": 129.01
+    },
+    {
+      "fecha": "2021-02",
+      "precipitacion_real_mm": 136.64,
+      "precipitacion_predicha_mm": 136.37
+    },
+    {
+      "fecha": "2021-03",
+      "precipitacion_real_mm": 256.06,
+      "precipitacion_predicha_mm": 180.89
+    },
+    {
+      "fecha": "2021-04",
+      "precipitacion_real_mm": 216.9,
+      "precipitacion_predicha_mm": 186.91
+    },
+    {
+      "fecha": "2021-05",
+      "precipitacion_real_mm": 143.22,
+      "precipitacion_predicha_mm": 116.51
+    },
+    {
+      "fecha": "2021-06",
+      "precipitacion_real_mm": 151.2,
+      "precipitacion_predicha_mm": 74.54
+    },
+    {
+      "fecha": "2021-07",
+      "precipitacion_real_mm": 45.57,
+      "precipitacion_predicha_mm": 64.98
+    },
+    {
+      "fecha": "2021-08",
+      "precipitacion_real_mm": 65.41,
+      "precipitacion_predicha_mm": 41.78
+    },
+    {
+      "fecha": "2021-09",
+      "precipitacion_real_mm": 101.1,
+      "precipitacion_predicha_mm": 84.85
+    },
+    {
+      "fecha": "2021-10",
+      "precipitacion_real_mm": 192.82,
+      "precipitacion_predicha_mm": 112.43
+    },
+    {
+      "fecha": "2021-11",
+      "precipitacion_real_mm": 125.4,
+      "precipitacion_predicha_mm": 142.46
+    },
+    {
+      "fecha": "2021-12",
+      "precipitacion_real_mm": 155.31,
+      "precipitacion_predicha_mm": 150.97
+    },
+    {
+      "fecha": "2022-01",
+      "precipitacion_real_mm": 142.6,
+      "precipitacion_predicha_mm": 164.63
+    },
+    {
+      "fecha": "2022-02",
+      "precipitacion_real_mm": 168.56,
+      "precipitacion_predicha_mm": 161.01
+    },
+    {
+      "fecha": "2022-03",
+      "precipitacion_real_mm": 225.68,
+      "precipitacion_predicha_mm": 208.55
+    },
+    {
+      "fecha": "2022-04",
+      "precipitacion_real_mm": 197.7,
+      "precipitacion_predicha_mm": 201.46
+    },
+    {
+      "fecha": "2022-05",
+      "precipitacion_real_mm": 137.64,
+      "precipitacion_predicha_mm": 126.06
+    },
+    {
+      "fecha": "2022-06",
+      "precipitacion_real_mm": 117.9,
+      "precipitacion_predicha_mm": 101.55
+    },
+    {
+      "fecha": "2022-07",
+      "precipitacion_real_mm": 101.99,
+      "precipitacion_predicha_mm": 71.43
+    },
+    {
+      "fecha": "2022-08",
+      "precipitacion_real_mm": 62.0,
+      "precipitacion_predicha_mm": 76.1
+    },
+    {
+      "fecha": "2022-09",
+      "precipitacion_real_mm": 88.8,
+      "precipitacion_predicha_mm": 94.92
+    },
+    {
+      "fecha": "2022-10",
+      "precipitacion_real_mm": 109.43,
+      "precipitacion_predicha_mm": 123.77
+    },
+    {
+      "fecha": "2022-11",
+      "precipitacion_real_mm": 96.3,
+      "precipitacion_predicha_mm": 125.81
+    },
+    {
+      "fecha": "2022-12",
+      "precipitacion_real_mm": 84.01,
+      "precipitacion_predicha_mm": 152.68
+    },
+    {
+      "fecha": "2023-01",
+      "precipitacion_real_mm": 178.25,
+      "precipitacion_predicha_mm": 145.01
+    },
+    {
+      "fecha": "2023-02",
+      "precipitacion_real_mm": 115.64,
+      "precipitacion_predicha_mm": 162.5
+    },
+    {
+      "fecha": "2023-03",
+      "precipitacion_real_mm": 223.51,
+      "precipitacion_predicha_mm": 216.46
+    },
+    {
+      "fecha": "2023-04",
+      "precipitacion_real_mm": 236.4,
+      "precipitacion_predicha_mm": 203.21
+    },
+    {
+      "fecha": "2023-05",
+      "precipitacion_real_mm": 196.85,
+      "precipitacion_predicha_mm": 135.9
+    },
+    {
+      "fecha": "2023-06",
+      "precipitacion_real_mm": 83.4,
+      "precipitacion_predicha_mm": 126.39
+    },
+    {
+      "fecha": "2023-07",
+      "precipitacion_real_mm": 115.01,
+      "precipitacion_predicha_mm": 60.51
+    },
+    {
+      "fecha": "2023-08",
+      "precipitacion_real_mm": 72.54,
+      "precipitacion_predicha_mm": 78.54
+    },
+    {
+      "fecha": "2023-09",
+      "precipitacion_real_mm": 68.7,
+      "precipitacion_predicha_mm": 100.36
+    },
+    {
+      "fecha": "2023-10",
+      "precipitacion_real_mm": 133.92,
+      "precipitacion_predicha_mm": 141.58
+    },
+    {
+      "fecha": "2023-11",
+      "precipitacion_real_mm": 108.9,
+      "precipitacion_predicha_mm": 127.09
+    },
+    {
+      "fecha": "2023-12",
+      "precipitacion_real_mm": 165.85,
+      "precipitacion_predicha_mm": 154.93
+    },
+    {
+      "fecha": "2024-01",
+      "precipitacion_real_mm": 130.82,
+      "precipitacion_predicha_mm": 155.77
+    },
+    {
+      "fecha": "2024-02",
+      "precipitacion_real_mm": 204.4,
+      "precipitacion_predicha_mm": 164.22
+    },
+    {
+      "fecha": "2024-03",
+      "precipitacion_real_mm": 164.3,
+      "precipitacion_predicha_mm": 234.29
+    },
+    {
+      "fecha": "2024-04",
+      "precipitacion_real_mm": 225.6,
+      "precipitacion_predicha_mm": 196.42
+    },
+    {
+      "fecha": "2024-05",
+      "precipitacion_real_mm": 144.77,
+      "precipitacion_predicha_mm": 136.4
+    },
+    {
+      "fecha": "2024-06",
+      "precipitacion_real_mm": 100.5,
+      "precipitacion_predicha_mm": 122.26
+    },
+    {
+      "fecha": "2024-07",
+      "precipitacion_real_mm": 53.94,
+      "precipitacion_predicha_mm": 71.61
+    },
+    {
+      "fecha": "2024-08",
+      "precipitacion_real_mm": 50.53,
+      "precipitacion_predicha_mm": 65.79
+    },
+    {
+      "fecha": "2024-09",
+      "precipitacion_real_mm": 74.1,
+      "precipitacion_predicha_mm": 94.06
+    },
+    {
+      "fecha": "2024-10",
+      "precipitacion_real_mm": 112.22,
+      "precipitacion_predicha_mm": 130.96
+    },
+    {
+      "fecha": "2024-11",
+      "precipitacion_real_mm": 70.2,
+      "precipitacion_predicha_mm": 115.21
+    },
+    {
+      "fecha": "2024-12",
+      "precipitacion_real_mm": 148.8,
+      "precipitacion_predicha_mm": 127.11
+    },
+    {
+      "fecha": "2025-01",
+      "precipitacion_real_mm": 177.94,
+      "precipitacion_predicha_mm": 160.39
+    },
+    {
+      "fecha": "2025-02",
+      "precipitacion_real_mm": 218.4,
+      "precipitacion_predicha_mm": 149.26
+    },
+    {
+      "fecha": "2025-03",
+      "precipitacion_real_mm": 434.8,
+      "precipitacion_predicha_mm": 240.68
+    },
+    {
+      "fecha": "2025-04",
+      "precipitacion_real_mm": 143.8,
+      "precipitacion_predicha_mm": 244.95
+    },
+    {
+      "fecha": "2025-05",
+      "precipitacion_real_mm": 100.2,
+      "precipitacion_predicha_mm": 148.66
+    },
+    {
+      "fecha": "2025-06",
+      "precipitacion_real_mm": 68.3,
+      "precipitacion_predicha_mm": 109.84
+    },
+    {
+      "fecha": "2025-07",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 84.54
+    },
+    {
+      "fecha": "2025-08",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 73.56
+    },
+    {
+      "fecha": "2025-09",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 94.16
+    },
+    {
+      "fecha": "2025-10",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 140.05
+    },
+    {
+      "fecha": "2025-11",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 124.48
+    },
+    {
+      "fecha": "2025-12",
+      "precipitacion_real_mm": null,
+      "precipitacion_predicha_mm": 147.41
+    }
+  ]
+}

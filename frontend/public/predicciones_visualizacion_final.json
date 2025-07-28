@@ -1,0 +1,422 @@
+[
+  {
+    "fecha": "2019-01",
+    "Precipitacion": 162.44,
+    "Prediccion": NaN
+  },
+  {
+    "fecha": "2019-02",
+    "Precipitacion": 188.72,
+    "Prediccion": 162.44
+  },
+  {
+    "fecha": "2019-03",
+    "Precipitacion": 252.03,
+    "Prediccion": 175.58
+  },
+  {
+    "fecha": "2019-04",
+    "Precipitacion": 221.4,
+    "Prediccion": 201.0633333333
+  },
+  {
+    "fecha": "2019-05",
+    "Precipitacion": 150.97,
+    "Prediccion": 220.7166666667
+  },
+  {
+    "fecha": "2019-06",
+    "Precipitacion": 81.3,
+    "Prediccion": 208.1333333333
+  },
+  {
+    "fecha": "2019-07",
+    "Precipitacion": 54.25,
+    "Prediccion": 151.2233333333
+  },
+  {
+    "fecha": "2019-08",
+    "Precipitacion": 23.87,
+    "Prediccion": 95.5066666667
+  },
+  {
+    "fecha": "2019-09",
+    "Precipitacion": 87.3,
+    "Prediccion": 53.14
+  },
+  {
+    "fecha": "2019-10",
+    "Precipitacion": 124.0,
+    "Prediccion": 55.14
+  },
+  {
+    "fecha": "2019-11",
+    "Precipitacion": 146.1,
+    "Prediccion": 78.39
+  },
+  {
+    "fecha": "2019-12",
+    "Precipitacion": 143.84,
+    "Prediccion": 119.1333333333
+  },
+  {
+    "fecha": "2020-01",
+    "Precipitacion": 160.27,
+    "Prediccion": 137.98
+  },
+  {
+    "fecha": "2020-02",
+    "Precipitacion": 141.68,
+    "Prediccion": 150.07
+  },
+  {
+    "fecha": "2020-03",
+    "Precipitacion": 153.14,
+    "Prediccion": 148.5966666667
+  },
+  {
+    "fecha": "2020-04",
+    "Precipitacion": 165.3,
+    "Prediccion": 151.6966666667
+  },
+  {
+    "fecha": "2020-05",
+    "Precipitacion": 90.21,
+    "Prediccion": 153.3733333333
+  },
+  {
+    "fecha": "2020-06",
+    "Precipitacion": 88.2,
+    "Prediccion": 136.2166666667
+  },
+  {
+    "fecha": "2020-07",
+    "Precipitacion": 69.13,
+    "Prediccion": 114.57
+  },
+  {
+    "fecha": "2020-08",
+    "Precipitacion": 89.28,
+    "Prediccion": 82.5133333333
+  },
+  {
+    "fecha": "2020-09",
+    "Precipitacion": 80.7,
+    "Prediccion": 82.2033333333
+  },
+  {
+    "fecha": "2020-10",
+    "Precipitacion": 88.97,
+    "Prediccion": 79.7033333333
+  },
+  {
+    "fecha": "2020-11",
+    "Precipitacion": 95.1,
+    "Prediccion": 86.3166666667
+  },
+  {
+    "fecha": "2020-12",
+    "Precipitacion": 149.42,
+    "Prediccion": 88.2566666667
+  },
+  {
+    "fecha": "2021-01",
+    "Precipitacion": 126.48,
+    "Prediccion": 111.1633333333
+  },
+  {
+    "fecha": "2021-02",
+    "Precipitacion": 136.64,
+    "Prediccion": 123.6666666667
+  },
+  {
+    "fecha": "2021-03",
+    "Precipitacion": 256.06,
+    "Prediccion": 137.5133333333
+  },
+  {
+    "fecha": "2021-04",
+    "Precipitacion": 216.9,
+    "Prediccion": 173.06
+  },
+  {
+    "fecha": "2021-05",
+    "Precipitacion": 143.22,
+    "Prediccion": 203.2
+  },
+  {
+    "fecha": "2021-06",
+    "Precipitacion": 151.2,
+    "Prediccion": 205.3933333333
+  },
+  {
+    "fecha": "2021-07",
+    "Precipitacion": 45.57,
+    "Prediccion": 170.44
+  },
+  {
+    "fecha": "2021-08",
+    "Precipitacion": 65.41,
+    "Prediccion": 113.33
+  },
+  {
+    "fecha": "2021-09",
+    "Precipitacion": 101.1,
+    "Prediccion": 87.3933333333
+  },
+  {
+    "fecha": "2021-10",
+    "Precipitacion": 192.82,
+    "Prediccion": 70.6933333333
+  },
+  {
+    "fecha": "2021-11",
+    "Precipitacion": 125.4,
+    "Prediccion": 119.7766666667
+  },
+  {
+    "fecha": "2021-12",
+    "Precipitacion": 155.31,
+    "Prediccion": 139.7733333333
+  },
+  {
+    "fecha": "2022-01",
+    "Precipitacion": 142.6,
+    "Prediccion": 157.8433333333
+  },
+  {
+    "fecha": "2022-02",
+    "Precipitacion": 168.56,
+    "Prediccion": 141.1033333333
+  },
+  {
+    "fecha": "2022-03",
+    "Precipitacion": 225.68,
+    "Prediccion": 155.49
+  },
+  {
+    "fecha": "2022-04",
+    "Precipitacion": 197.7,
+    "Prediccion": 178.9466666667
+  },
+  {
+    "fecha": "2022-05",
+    "Precipitacion": 137.64,
+    "Prediccion": 197.3133333333
+  },
+  {
+    "fecha": "2022-06",
+    "Precipitacion": 117.9,
+    "Prediccion": 187.0066666667
+  },
+  {
+    "fecha": "2022-07",
+    "Precipitacion": 101.99,
+    "Prediccion": 151.08
+  },
+  {
+    "fecha": "2022-08",
+    "Precipitacion": 62.0,
+    "Prediccion": 119.1766666667
+  },
+  {
+    "fecha": "2022-09",
+    "Precipitacion": 88.8,
+    "Prediccion": 93.9633333333
+  },
+  {
+    "fecha": "2022-10",
+    "Precipitacion": 109.43,
+    "Prediccion": 84.2633333333
+  },
+  {
+    "fecha": "2022-11",
+    "Precipitacion": 96.3,
+    "Prediccion": 86.7433333333
+  },
+  {
+    "fecha": "2022-12",
+    "Precipitacion": 84.01,
+    "Prediccion": 98.1766666667
+  },
+  {
+    "fecha": "2023-01",
+    "Precipitacion": 178.25,
+    "Prediccion": 96.58
+  },
+  {
+    "fecha": "2023-02",
+    "Precipitacion": 115.64,
+    "Prediccion": 119.52
+  },
+  {
+    "fecha": "2023-03",
+    "Precipitacion": 223.51,
+    "Prediccion": 125.9666666667
+  },
+  {
+    "fecha": "2023-04",
+    "Precipitacion": 236.4,
+    "Prediccion": 172.4666666667
+  },
+  {
+    "fecha": "2023-05",
+    "Precipitacion": 196.85,
+    "Prediccion": 191.85
+  },
+  {
+    "fecha": "2023-06",
+    "Precipitacion": 83.4,
+    "Prediccion": 218.92
+  },
+  {
+    "fecha": "2023-07",
+    "Precipitacion": 115.01,
+    "Prediccion": 172.2166666667
+  },
+  {
+    "fecha": "2023-08",
+    "Precipitacion": 72.54,
+    "Prediccion": 131.7533333333
+  },
+  {
+    "fecha": "2023-09",
+    "Precipitacion": 68.7,
+    "Prediccion": 90.3166666667
+  },
+  {
+    "fecha": "2023-10",
+    "Precipitacion": 133.92,
+    "Prediccion": 85.4166666667
+  },
+  {
+    "fecha": "2023-11",
+    "Precipitacion": 108.9,
+    "Prediccion": 91.72
+  },
+  {
+    "fecha": "2023-12",
+    "Precipitacion": 165.85,
+    "Prediccion": 103.84
+  },
+  {
+    "fecha": "2024-01",
+    "Precipitacion": 130.82,
+    "Prediccion": 136.2233333333
+  },
+  {
+    "fecha": "2024-02",
+    "Precipitacion": 204.4,
+    "Prediccion": 135.19
+  },
+  {
+    "fecha": "2024-03",
+    "Precipitacion": 164.3,
+    "Prediccion": 167.0233333333
+  },
+  {
+    "fecha": "2024-04",
+    "Precipitacion": 225.6,
+    "Prediccion": 166.5066666667
+  },
+  {
+    "fecha": "2024-05",
+    "Precipitacion": 144.77,
+    "Prediccion": 198.1
+  },
+  {
+    "fecha": "2024-06",
+    "Precipitacion": 100.5,
+    "Prediccion": 178.2233333333
+  },
+  {
+    "fecha": "2024-07",
+    "Precipitacion": 53.94,
+    "Prediccion": 156.9566666667
+  },
+  {
+    "fecha": "2024-08",
+    "Precipitacion": 50.53,
+    "Prediccion": 99.7366666667
+  },
+  {
+    "fecha": "2024-09",
+    "Precipitacion": 74.1,
+    "Prediccion": 68.3233333333
+  },
+  {
+    "fecha": "2024-10",
+    "Precipitacion": 112.22,
+    "Prediccion": 59.5233333333
+  },
+  {
+    "fecha": "2024-11",
+    "Precipitacion": 70.2,
+    "Prediccion": 78.95
+  },
+  {
+    "fecha": "2024-12",
+    "Precipitacion": 148.8,
+    "Prediccion": 85.5066666667
+  },
+  {
+    "fecha": "2025-01",
+    "Precipitacion": 177.94,
+    "Prediccion": 110.4066666667
+  },
+  {
+    "fecha": "2025-02",
+    "Precipitacion": 218.4,
+    "Prediccion": 132.3133333333
+  },
+  {
+    "fecha": "2025-03",
+    "Precipitacion": 434.8,
+    "Prediccion": 181.7133333333
+  },
+  {
+    "fecha": "2025-04",
+    "Precipitacion": 143.8,
+    "Prediccion": 277.0466666667
+  },
+  {
+    "fecha": "2025-05",
+    "Precipitacion": 100.2,
+    "Prediccion": 265.6666666667
+  },
+  {
+    "fecha": "2025-06",
+    "Precipitacion": 68.3,
+    "Prediccion": 226.2666666667
+  },
+  {
+    "fecha": "2025-07",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  },
+  {
+    "fecha": "2025-08",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  },
+  {
+    "fecha": "2025-09",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  },
+  {
+    "fecha": "2025-10",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  },
+  {
+    "fecha": "2025-11",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  },
+  {
+    "fecha": "2025-12",
+    "Precipitacion": NaN,
+    "Prediccion": 198.9022222222
+  }
+]

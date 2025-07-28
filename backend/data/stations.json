@@ -1,0 +1,26 @@
+[
+  {
+    "code": "C04",
+    "name": "Rumipamba",
+    "lat": -0.20,
+    "lon": -78.49
+  },
+  {
+    "code": "C18",
+    "name": "Puegasi",
+    "lat": -0.23,
+    "lon": -78.49
+  },
+  {
+    "code": "C19",
+    "name": "El Troje",
+    "lat": -0.33,
+    "lon": -78.52
+  },
+  {
+    "code": "C20",
+    "name": "Calderon",
+    "lat": -0.07,
+    "lon": -78.43
+  }
+]
